@@ -238,7 +238,7 @@ a {
     margin-top: 38px;
 }
 
-.hero_phone {
+.hero_phone  a {
     margin-left: 38px;
     color: #fff;
     text-align: center;
@@ -366,7 +366,7 @@ a {
 
 /* work */
 .work {
-    margin: 100px 0;
+    padding: 100px 0;
     background: #f6fbff;
 }
 
@@ -470,6 +470,7 @@ a {
 }
 
 .feature-content-btn {
+    cursor: pointer;
     margin-top: 38px;
 }
 
@@ -718,7 +719,7 @@ a {
     background: #2e80ce;
 }
 
-.appointment-desc {
+.appointment-desc a {
     max-width: 617px;
     font-size: 1.6rem;
     margin: 18px auto 38px;
